@@ -1,0 +1,6 @@
+[27-Mar-2017 11:09:11 UTC] PHP Fatal error:  Class 'App\Providers\Schema' not found in /home3/vencerbd/public_html/hakushpukush/app/Providers/AppServiceProvider.php on line 16
+[01-Apr-2017 11:05:28 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Schema\Blueprint::int() in /home3/vencerbd/public_html/hakushpukush/database/migrations/2017_04_01_104336_create_table_inventories.php on line 18
+[01-Apr-2017 11:05:44 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Schema\Blueprint::int() in /home3/vencerbd/public_html/hakushpukush/database/migrations/2017_04_01_104336_create_table_inventories.php on line 18
+[01-Apr-2017 11:08:19 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Schema\Blueprint::int() in /home3/vencerbd/public_html/hakushpukush/database/migrations/2017_04_01_104336_create_table_inventories.php on line 18
+[15-Apr-2017 12:55:18 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Schema\Blueprint::varchar() in /home3/vencerbd/public_html/hakushpukush/database/migrations/2017_04_15_124323_create_damages_table.php on line 20
+[17-Apr-2017 13:27:04 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Schema\Blueprint::varchar() in /home3/vencerbd/public_html/lubbazar/database/migrations/2017_04_11_092718_store_status.php on line 19
